@@ -1,32 +1,26 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a Hang-Man program that makes the player guess what the word is and detects whether they have overused a word. The words are generated randomly by a text file that lists them all. For each turn, the player is awarded 100 points and their score is saved to a text file. They player can keep going as they'd like to update their score. However, if they lose, the game will completely end and not allow the player to go again unless the program is ran again.
 
-{Provide a description of the software that you wrote to demonstrate the C++ language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+This project was created to learn about programming in C++ and to see how complex it is compared to other C-derived languages C# and GML Code. 
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+This program was created from scratch online on [Replit](https://replit.com) in C++. No libraries were used for the making of this project.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+Here are the websites that were used for the making of this project.
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Youtube](https://www.youtube.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Replit](https://replit.com)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+Things that should be added in the future:
 
-- Item 1
-- Item 2
-- Item 3
+- Organize the scoreboard by highest score to lowest score and include a high score.
+- Create a "party" mode where the user plays against a computer player and they have to go against each other before a set amount of rounds is over.
