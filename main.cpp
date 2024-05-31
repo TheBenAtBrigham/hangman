@@ -1,4 +1,3 @@
-//#include "open.cpp"
 #include <algorithm>
 #include <cstdio>
 #include <ctime>
@@ -189,7 +188,10 @@ bool CheckForWinAndMakeWord(string word, string guess) {
       } else {
         PrintMessage("YOU LOSE...");
         DrawTheHangman(tries);
+        string quit;
         PrintMessage("Score: " + to_string(score));
+        cout << "Enter any key to quit now: ";
+        cin >> quit;
         ShowAvailableAndTakenLetters(guesses);
         quitGame = true;
       }
@@ -209,6 +211,6 @@ bool CheckForWinAndMakeWord(string word, string guess) {
     }
     //SaveToScoreFile("score.txt", score);
     open.SaveScore("score.txt", score);
-
+    
     return 0;
   }
