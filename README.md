@@ -2,7 +2,7 @@
 
 This is a Hang-Man program that makes the player guess what the word is and detects whether they have overused a word. The words are generated randomly by a text file that lists them all. For each turn, the player is awarded 100 points and their score is saved to a text file. They player can keep going as they'd like to update their score. However, if they lose, the game will completely end and not allow the player to go again unless the program is ran again.
 
-This project was created to learn about programming in C++ and to see how complex it is compared to other C-derived languages C# and GML Code. 
+This project was created to learn about programming in C++ and to see how complex it is compared to other C-derived languages, such as C# and GML Code. 
 
 [Software Demo Video](http://youtube.link.goes.here)
 
