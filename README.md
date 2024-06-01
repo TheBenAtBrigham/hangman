@@ -4,7 +4,7 @@ This is a Hang-Man program that makes the player guess what the word is and dete
 
 This project was created to learn about programming in C++ and to see how complex it is compared to other C-derived languages, such as C# and GML Code. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://drive.google.com/file/d/1geCQ2d1miYwFG9fv7HqBXO02CikTgqxH/view?usp=drive_link)
 
 # Development Environment
 
